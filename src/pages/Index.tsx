@@ -31,7 +31,7 @@ const Index = () => {
       case 'farmer':
         return '/dashboard';
       default:
-        return '/'; // Default fallback to farmer dashboard
+        return '/dashboard'; // Default fallback to farmer dashboard
     }
   };
 
